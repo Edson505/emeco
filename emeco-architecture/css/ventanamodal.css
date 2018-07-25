@@ -1,0 +1,31 @@
+
+.miVentana {
+position: absolute;
+ width: 600px;
+  height: 1000px;
+  
+   top: 0;
+    left: 0;
+     font-family:Verdana, Arial, Helvetica, sans-serif;
+      font-size: 12px;
+       font-weight: normal;
+        border: #333333 3px solid;
+         background-color: #FAFAFA; 
+         color: #000000;
+          display:none;
+    
+    
+    
+#tituloventana {
+        padding: 5px; text-align: justify; line-height:normal
+    }
+    
+    
+    width:500px;
+    
+    btnaceptar {
+        
+        padding: 10px; background-color: #F0F0F0; text-align: center; margin-top: 44px;
+    }
+    
+    

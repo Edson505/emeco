@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2017 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="user" unicode="&#xe800;" d="M353 351q139 0 237-99t98-236q0-47-33-80t-79-33l-446 0q-46 0-79 33t-33 80q0 138 98 236t237 99z m-167 279q0 167 167 167 168 0 168-167 0-168-168-168-167 0-167 168z" horiz-adv-x="705" />
+
+<glyph glyph-name="mail" unicode="&#xe801;" d="M467 366l-449 210 0 109 893 0 0-109z m0-123l444 210 0-437-893 0 0 438z" horiz-adv-x="928" />
+
+<glyph glyph-name="align-justify" unicode="&#xe802;" d="M1000 100v-71q0-15-11-25t-25-11h-928q-15 0-25 11t-11 25v71q0 15 11 25t25 11h928q15 0 25-11t11-25z m0 214v-71q0-15-11-25t-25-11h-928q-15 0-25 11t-11 25v71q0 15 11 25t25 11h928q15 0 25-11t11-25z m0 215v-72q0-14-11-25t-25-11h-928q-15 0-25 11t-11 25v72q0 14 11 25t25 10h928q15 0 25-10t11-25z m0 214v-72q0-14-11-25t-25-10h-928q-15 0-25 10t-11 25v72q0 14 11 25t25 11h928q15 0 25-11t11-25z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
